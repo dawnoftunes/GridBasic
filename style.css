@@ -1,0 +1,21 @@
+#page_header {
+    background-color: aqua;
+    min-height: 50px;
+}
+#page_main {
+    background-color: aquamarine;
+    calc: (90vh - 100px)
+
+    
+}
+#page_footer {
+    min-height: 50px;
+    background-color: blue;
+}
+body {
+    display: grid;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
